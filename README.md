@@ -7,7 +7,7 @@ Si desean colaborar en este proyecto, lea la seccion colaborar, a continuación
 ## Instalar este sitio web localmente
 
 1. Hacer `git clone` del proyecto
-2. Ahcer `git commit` de sus cambios
+2. Hacer `git commit` de sus cambios
 3. Hacer `git push` al repositorio remoto
 
 ## Colaborar
